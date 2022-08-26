@@ -3,8 +3,8 @@
 I'm Gonçalo a wanna be programmer. In here you can find my attemps at that.\
 I'm still at the beginning of this journey but loving every step.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Costa-atsoC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://user-images.githubusercontent.com/94967933/186885482-cef89a83-9e5e-4edd-b81f-f54ed5b15e6e.jpg" width=300 />
+
+
 
 ### Currently learning
 - Javascript
@@ -20,3 +20,7 @@ If you want to help me in this journey fell free to
 ---
 
 <center>With ❤️ Costa</center>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Costa-atsoC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/94967933/186885482-cef89a83-9e5e-4edd-b81f-f54ed5b15e6e.jpg" width=300 />
