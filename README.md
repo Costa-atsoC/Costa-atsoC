@@ -7,7 +7,7 @@ I'm still at the beginning of this journey but loving every step.
 
 
 ### Currently learning
-- Javascript
+- Typescript
 - React
 - Python
 
