@@ -1,25 +1,36 @@
-### Hi there fellow humans 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/df/75/d3/df75d3308f1c34cb8d16d6758aaa6e14.jpg" alt="Your Profile Image" width="400" height="200">
+</p>
 
-I'm Gonçalo a wanna be programmer. In here you can find my attemps at that.\
-I'm still at the beginning of this journey but loving every step.
+<h1 align="center">Hi there, I'm Gonçalo! 👋</h1>
 
+<p align="center">
+  <!--<a href="https://your-website.com"><img src="https://img.shields.io/badge/-Portfolio-ff69b4" alt="Portfolio"></a>-->
+  <a href="https://www.linkedin.com/in/gonçalo-costa-946693229/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5" alt="LinkedIn"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-e74c3c" alt="Email"></a>
+</p>
 
+<p align="center">Welcome to my GitHub profile! I'm a passionate programmer with a love for learning all kinds of things. When I'm not coding, you can find me listening to some 90s rock.</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Costa-atsoC&layout=donut&count_private=true&show_icons=true&bg_color=00000000" alt="GitHub Stats">
+</p>
 
-### Currently learning
-- Typescript
-- React
-- Python
+## 🚀 What I'm Currently Working On
 
----
+- 🔭 [FinanControl](https://github.com/Costa-atsoC/FinanControl): It will be a android app for controlling my finances.
+- 🌱 Learning [Kotlin](https://kotlinlang.org): Starting out with the basics.
+- 👯 Looking for people to collaborate on a project.
 
-If you want to help me in this journey fell free to
-- Send me a **Email**: gonca.costa30@gmail.com
-- Send me a message on **[LinkedIn](https://www.linkedin.com/in/gonçalo-costa-946693229/)**
+## 🌟 Featured Projects
 
----
+- 📦 [FinanControl](https://github.com/Costa-atsoC/FinanControl): It's an android app that helps me control my finances.
 
-<center>With ❤️ Costa</center>
+## 📫 How to Reach Me
 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gonçalo-costa-946693229/). You can also shoot me an email at gonca.costa30@gmail.com.
 
-<img src="https://user-images.githubusercontent.com/94967933/186885482-cef89a83-9e5e-4edd-b81f-f54ed5b15e6e.jpg" width=300 />
+## ⚡ Fun Fact
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94967933/186885482-cef89a83-9e5e-4edd-b81f-f54ed5b15e6e.jpg" width=300 />
+</p>
