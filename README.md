@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/df/75/d3/df75d3308f1c34cb8d16d6758aaa6e14.jpg" alt="Your Profile Image" width="400" height="200">
-</p>
-
 <h1 align="center">Hi there, I'm Gonçalo! 👋</h1>
 
 <p align="center">
