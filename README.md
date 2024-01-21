@@ -27,9 +27,9 @@
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gonçalo-costa-946693229/). You can also shoot me an email at gonca.costa30@gmail.com.
 
 ## ⚡ Fun Fact
+[//]: # (wakatime-stats)
+[//]: # (end-wakatime-stats)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94967933/186885482-cef89a83-9e5e-4edd-b81f-f54ed5b15e6e.jpg" width=300 />
 </p>
 
-[//]: # (wakatime-stats)
-[//]: # (end-wakatime-stats)
