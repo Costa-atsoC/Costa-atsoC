@@ -28,6 +28,15 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gonçalo-
 
 ## ⚡ Fun Fact
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   2 hrs 17 mins   ██████████████████████▒░░   88.84 %
+Prisma       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+PHP          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+```
+
 <!--END_SECTION:waka-->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94967933/186885482-cef89a83-9e5e-4edd-b81f-f54ed5b15e6e.jpg" width=300 />
