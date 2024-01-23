@@ -7,11 +7,17 @@
 </p>
 
 <p align="center">Welcome to my GitHub profile! I'm a passionate programmer with a love for learning all kinds of things. When I'm not coding, you can find me listening to some 90s rock.</p>
+<!--START_SECTION:waka-->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Costa-atsoC&layout=donut&count_private=true&show_icons=true&bg_color=00000000" alt="GitHub Stats">
-</p>
+```txt
+TypeScript   2 hrs 17 mins   ██████████████████████▒░░   88.84 %
+Prisma       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+PHP          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+```
 
+<!--END_SECTION:waka-->
 ## 🚀 What I'm Currently Working On
 
 - 🔭 [FinanControl](https://github.com/Costa-atsoC/FinanControl): It will be a android app for controlling my finances.
@@ -27,17 +33,7 @@
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gonçalo-costa-946693229/). You can also shoot me an email at gonca.costa30@gmail.com.
 
 ## ⚡ Fun Fact
-<!--START_SECTION:waka-->
 
-```txt
-TypeScript   2 hrs 17 mins   ██████████████████████▒░░   88.84 %
-Prisma       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-PHP          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-```
-
-<!--END_SECTION:waka-->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94967933/186885482-cef89a83-9e5e-4edd-b81f-f54ed5b15e6e.jpg" width=300 />
 </p>
