@@ -16,4 +16,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TABLE_STYLE: 'box' # (optional) can be 'default','box' or 'box-double'
+          TIME_RANGE: 'all_time'
 
